@@ -14,3 +14,7 @@ Lista con los componentes que veo que podemos usar
   Se definen una estructura con cajas resizables y movibles
 - https://github.com/deepstreamIO/golden-layout/
   Se definen una estructura con cajas resizables y movibles con opciones
+  
+ ### CHARTS
+ https://github.com/esnet/react-timeseries-charts/
+ Para series temporal es orientado a tiempo real

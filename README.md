@@ -18,3 +18,4 @@ Lista con los componentes que veo que podemos usar
  ### CHARTS
  https://github.com/esnet/react-timeseries-charts/
  Para series temporal es orientado a tiempo real
+ https://github.com/react-tools/react-charts
